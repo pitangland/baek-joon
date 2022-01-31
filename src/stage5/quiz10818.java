@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+
+// 항상 백준에 제출할 때는 파일이름을 Main으로 바꾸어야함. 또한 package 까지 복사하지 않게 주의
 public class quiz10818 {
 
 	public static void main(String[] args) throws IOException {
